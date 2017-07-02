@@ -4,9 +4,9 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://yiimp.ccminer.org:4252",
-	"user" : "benchmark",
-	"pass" : "d=0.024",
+	"url" : "stratum+tcp://sha.eobot.com:3333",
+	"user" : "eobot.400748",
+	"pass" : "x",
 
 	"algo" : "decred",
 	"threads" : 0,
